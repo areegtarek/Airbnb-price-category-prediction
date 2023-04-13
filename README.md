@@ -1,5 +1,7 @@
 # Airbnb price category prediction
 
+Kaggle Link: https://www.kaggle.com/competitions/copy-of-cisc-873-dm-w23-a4
+
 ![image](https://user-images.githubusercontent.com/46351336/231612652-e9cacae3-69a6-484a-91a3-774e1578af79.png)
 
 (meme source: People Are Having a Lot of Fun With the New Airbnb Logo)
